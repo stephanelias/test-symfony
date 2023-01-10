@@ -23,6 +23,6 @@ class CallApiService {
 // $contentType = 'application/json'
         $content = $response->getContent();
 // $content = '{"id":521583, "name":"symfony-docs", ...}'
-        
+
     }
 }
